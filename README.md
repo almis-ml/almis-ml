@@ -1,4 +1,4 @@
-Hi, I’m D 👋  
+Hi, I’m Almis 👋  
 Senior Machine Learning Engineer focused on production ML systems.
 
 ## What I do
