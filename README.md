@@ -1,16 +1,23 @@
-## Hi there 👋
+Hi, I’m D 👋  
+Senior Machine Learning Engineer focused on production ML systems.
 
-<!--
-**almis-ml/almis-ml** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## What I do
+- Design end-to-end ML pipelines (training → deployment → monitoring)
+- Build scalable data & feature pipelines
+- Own model performance, cost, and reliability in production
 
-Here are some ideas to get you started:
+## Tech Stack
+**ML**: PyTorch, TensorFlow, XGBoost  
+**Data**: Python, SQL, Spark, Pandas  
+**MLOps**: MLflow, Airflow, Docker, Kubernetes  
+**Cloud**: AWS / GCP  
+**Infra**: Terraform, CI/CD
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Focus
+- Model monitoring & drift detection
+- Feature store design
+- Cost-efficient training pipelines
+
+## Contact
+- LinkedIn: …
+- Email: …
